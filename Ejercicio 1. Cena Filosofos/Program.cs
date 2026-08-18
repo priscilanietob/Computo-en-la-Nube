@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Threading;
 
 // se declaran las clases con sus atributos 
